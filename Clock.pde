@@ -1,8 +1,0 @@
-class Clock
-{
-
-  void show
-  {
-  }
-  
-}
